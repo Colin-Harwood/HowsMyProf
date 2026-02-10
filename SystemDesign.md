@@ -2,10 +2,13 @@
 
 # Frontend
 
-NextJS and react
-Tailwind to help with CSS styling
+Node and react
 
 # Backend
 
+### Languages and frameworks
+Node and Express
+
+### Server
+#### Type
 PostgreSQL server
-ORM prisma
