@@ -7,4 +7,8 @@ app.use(cors());
 
 app.use(express.json());
 
+app.get('/test', (req, res) => {
+    res.send("Server is alive!")
+})
+
 export default app;
